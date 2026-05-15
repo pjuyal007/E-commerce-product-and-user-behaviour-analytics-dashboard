@@ -68,12 +68,12 @@ User Behavioral Metrics
 
 Performed:
 
-Funnel Analysis
-Cart Abandonment Analysis
-Product Conversion Analysis
-User Engagement Analysis
-Monthly KPI Trend Analysis
-Category Performance Analysis
+Funnel Analysis,
+Cart Abandonment Analysis,
+Product Conversion Analysis,
+User Engagement Analysis,
+Monthly KPI Trend Analysis,
+Category Performance Analysis.
 
 # Key Insights
 Product views dominated overall platform activity while purchases remained comparatively low.

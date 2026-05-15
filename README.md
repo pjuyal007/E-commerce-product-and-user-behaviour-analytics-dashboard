@@ -100,11 +100,17 @@ Abandonment by Category & Brand
 
 # jupyter notebook screenshots
 
-![]
+![](Notebooks/Visualization/Event_type_Distribution.png)
+![](Notebooks/Visualization/Hourly_purchases.png)
+![](Notebooks/Visualization/Monthly_purchase_trend.png)
+
 # Dashboard Screenshots
 
-![]
-Business Impact
+![](PowerBi/Screenshots/Page1_Executive_Overview.png)
+![](PowerBi/Screenshots/Page2_User_Engagement.png)
+![](PowerBi/Screenshots/Page3_Funnel_and_abandonment_analysis.png)
+
+# Business Impact
 
 This project demonstrates how product analytics and user behavior analysis can help businesses:
 
@@ -113,11 +119,12 @@ Reduce cart abandonment
 Identify low-performing products
 Optimize customer engagement strategies
 Improve product-level decision making
-Author
+
+# Author
 
 Pankaj Juyal
 
-Skills Used:
+# Skills Used:
 
 Python
 Pandas
@@ -125,5 +132,4 @@ Data Analysis
 Power BI
 DAX
 Data Cleaning
-Feature Engineering
 Business Analytics
